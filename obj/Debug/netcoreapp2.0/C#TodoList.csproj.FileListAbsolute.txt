@@ -1,0 +1,10 @@
+/Users/danielactor/Desktop/Projects/C#TodoList/bin/Debug/netcoreapp2.0/C#TodoList.deps.json
+/Users/danielactor/Desktop/Projects/C#TodoList/bin/Debug/netcoreapp2.0/C#TodoList.runtimeconfig.json
+/Users/danielactor/Desktop/Projects/C#TodoList/bin/Debug/netcoreapp2.0/C#TodoList.runtimeconfig.dev.json
+/Users/danielactor/Desktop/Projects/C#TodoList/bin/Debug/netcoreapp2.0/C#TodoList.dll
+/Users/danielactor/Desktop/Projects/C#TodoList/bin/Debug/netcoreapp2.0/C#TodoList.pdb
+/Users/danielactor/Desktop/Projects/C#TodoList/obj/Debug/netcoreapp2.0/C#TodoList.csproj.CoreCompileInputs.cache
+/Users/danielactor/Desktop/Projects/C#TodoList/obj/Debug/netcoreapp2.0/C#TodoList.AssemblyInfoInputs.cache
+/Users/danielactor/Desktop/Projects/C#TodoList/obj/Debug/netcoreapp2.0/C#TodoList.AssemblyInfo.cs
+/Users/danielactor/Desktop/Projects/C#TodoList/obj/Debug/netcoreapp2.0/C#TodoList.dll
+/Users/danielactor/Desktop/Projects/C#TodoList/obj/Debug/netcoreapp2.0/C#TodoList.pdb
